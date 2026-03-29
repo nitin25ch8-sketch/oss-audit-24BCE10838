@@ -1,0 +1,2 @@
+On 29 March 2026, I believe open source is about ability to modify and share software.
+I use Git daily and aim to build AI tools for students for the community.
