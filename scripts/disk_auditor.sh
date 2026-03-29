@@ -19,3 +19,4 @@ if [ -f ~/.gitconfig ]; then
  echo "Git config found:"
  ls -l ~/.gitconfig
 fi
+read -p "Press enter to exit..."
