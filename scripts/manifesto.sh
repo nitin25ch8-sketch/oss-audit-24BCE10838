@@ -14,3 +14,4 @@ echo "I use $TOOL daily and aim to build $BUILD for the community." >> $OUTPUT
 
 echo "Manifesto saved to $OUTPUT"
 cat $OUTPUT
+read -p "Press enter to exit..."
