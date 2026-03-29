@@ -18,3 +18,5 @@ done < "$LOGFILE"
 echo "Keyword '$KEYWORD' found $COUNT times"
 
 grep -i "$KEYWORD" "$LOGFILE" | tail -5
+
+read -p "Press enter to exit..."
